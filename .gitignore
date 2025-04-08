@@ -24,3 +24,7 @@ yarn-error.log*
 /test-results/
 /playwright-report/
 /playwright/.cache/
+
+# Playwright
+node_modules/
+/blob-report/
