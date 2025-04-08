@@ -34,6 +34,7 @@ pipeline {
 
             steps {
                 sh '''
+                    echo "subhash"
                     #test -f build/index.html
                     npm test
                 '''
